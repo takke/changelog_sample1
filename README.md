@@ -1,3 +1,8 @@
 # changelog_sample1
 
-changed1
+- v2.4.0-beta2
+  - PR2
+
+- v2.4.0-beta1
+  - PR1
+
